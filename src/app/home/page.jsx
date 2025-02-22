@@ -1,8 +1,8 @@
-import PremiumGymLandingPage from './components/home'
+import Portfolio from './components/home'
 const page = () => {
   return (
     <div>
-      <PremiumGymLandingPage/>
+      <Portfolio/>
     </div>
   )
 }
